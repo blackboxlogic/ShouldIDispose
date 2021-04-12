@@ -1,5 +1,5 @@
 # ShouldIDispose
-A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-5.0) types, and if you should to dispose them.
+A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-5.0) types, and if you should dispose them.
 Please feel free to contribute pull requests or issues.
 
 * `System.IO.MemoryStream` [No](https://stackoverflow.com/a/4274769)
