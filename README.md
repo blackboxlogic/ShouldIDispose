@@ -7,4 +7,4 @@ Please feel free to contribute pull requests or issues.
 * `System.IO.MemoryStream` [No](https://stackoverflow.com/a/4274769)
 * `System.IO.StringWriter` [No](https://stackoverflow.com/a/2477076)
 * `System.Threading.Mutex` [Yes](https://stackoverflow.com/a/7107218)
-* `System.Windows.Forms` [Yes for `ShowDialog()`, No for `Show()`](https://stackoverflow.com/a/8315201/1521988)
+* `System.Windows.Form` [Yes for `ShowDialog()`, No for `Show()`](https://stackoverflow.com/a/8315201/1521988)
