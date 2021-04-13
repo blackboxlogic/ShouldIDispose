@@ -3,6 +3,9 @@ A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisp
 
 * `System.Data.DataSet` [No](https://stackoverflow.com/a/913286)
 * `System.Data.DataTable` [No](https://stackoverflow.com/a/913286)
+* `System.Data.SqlClient.SqlCommand` [Yes](https://stackoverflow.com/a/1808056)
+* `System.Data.SqlClient.SqlConnection` [Yes](https://stackoverflow.com/a/1808056)
+* `System.Data.SqlClient.SqlTransaction` [Yes](https://stackoverflow.com/a/9525729)
 * `System.IO.MemoryStream` [No](https://stackoverflow.com/a/4274769)
 * `System.IO.StringWriter` [No](https://stackoverflow.com/a/2477076)
 * `System.Threading.Mutex` [Yes](https://stackoverflow.com/a/7107218)
