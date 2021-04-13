@@ -1,5 +1,5 @@
 # ShouldIDispose
-A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-5.0) c# .Net types, and if you should `Dispose()` them.
+A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-5.0) c# .Net types, and if you need to `Dispose()` them.
 
 * `System.Data.DataSet` [No](https://stackoverflow.com/a/913286)
 * `System.Data.DataTable` [No](https://stackoverflow.com/a/913286)
