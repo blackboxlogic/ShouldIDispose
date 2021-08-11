@@ -9,6 +9,7 @@ A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisp
 * `System.IO.MemoryStream` [No](https://stackoverflow.com/a/4274769)
 * `System.IO.StringWriter` [No](https://stackoverflow.com/a/2477076)
 * `System.Net.Http.HttpClient` [Better to re-use one instance, but when you're _done_ with it: Yes](https://stackoverflow.com/a/15708633)
+* `System.Net.Mail.MailMessage` [Yes, if it might have attachments](https://stackoverflow.com/a/8477820/1521988)
 * `System.Threading.Mutex` [Yes](https://stackoverflow.com/a/7107218)
 * `System.Windows.Form` [Yes for `ShowDialog()`, No for `Show()`](https://stackoverflow.com/a/8315201/1521988)
 
