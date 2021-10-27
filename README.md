@@ -6,6 +6,7 @@ A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisp
 * `System.Data.SqlClient.SqlCommand` [Yes](https://stackoverflow.com/a/1808056)
 * `System.Data.SqlClient.SqlConnection` [Yes](https://stackoverflow.com/a/1808056)
 * `System.Data.SqlClient.SqlTransaction` [Yes](https://stackoverflow.com/a/9525729)
+* `System.Drawing.Font` [It's complicated, safest not to](https://github.com/dotnet/runtime/issues/36233)
 * `System.IO.MemoryStream` [No](https://stackoverflow.com/a/4274769)
 * `System.IO.StringWriter` [No](https://stackoverflow.com/a/2477076)
 * `System.Net.Http.HttpClient` [Better to re-use one instance, but when you're _done_ with it: Yes](https://stackoverflow.com/a/15708633)
