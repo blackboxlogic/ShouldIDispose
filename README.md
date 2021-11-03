@@ -5,6 +5,7 @@ A list of [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisp
 * `System.Data.DataTable` [No](https://stackoverflow.com/a/913286)
 * `System.Data.SqlClient.SqlCommand` [Yes](https://stackoverflow.com/a/1808056)
 * `System.Data.SqlClient.SqlConnection` [Yes](https://stackoverflow.com/a/1808056)
+* `System.Data.SqlClient.SqlDataReader` [Yes](https://stackoverflow.com/a/744069)
 * `System.Data.SqlClient.SqlTransaction` [Yes](https://stackoverflow.com/a/9525729)
 * `System.Drawing.Font` [It's complicated, safest not to](https://github.com/dotnet/runtime/issues/36233)
 * `System.IO.MemoryStream` [No](https://stackoverflow.com/a/4274769)
